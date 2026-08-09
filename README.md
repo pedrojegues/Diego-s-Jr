@@ -273,7 +273,7 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 ---
 
 ## Kanban e indicadores
-![ Print do Trello ]( kanban.png )
+![ Print do Trello ]( Kanban.png )
 
 
 | Indicador | Valor |
