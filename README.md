@@ -283,7 +283,7 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 
 
 
-
+| - - - - - - - - - - -| - - - - - - -|
 | Indicador | Valor |
 | - - - - - - - - - - -| - - - - - - -|
 | WIP ( limite ) | 5 c a r t e s |
