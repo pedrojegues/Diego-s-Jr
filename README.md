@@ -272,4 +272,12 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 
 ---
 
+## Kanban e indicadores
+![ Print do Trello ]( kanban.png )
+| Indicador | Valor |
+| - - - - - - - - - - -| - - - - - - -|
+| WIP ( limite ) | 5 c a r t e s |
+| Lead Time m d i o | 5,2 dias |
+| Cycle Time m d i o | 3,4 dias |
+
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
