@@ -279,10 +279,10 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 
 | - - - - - - - - - - -| - - - - - - -|
 
-| WIP ( limite ) | 5 c a r t e s |
+| WIP ( limite ) | 5 cartões |
 
-| Lead Time m d i o | 5,2 dias |
+| Lead Time médio | 5,2 dias |
 
-| Cycle Time m d i o | 3,4 dias |
+| Cycle Time médio | 3,4 dias |
 
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
