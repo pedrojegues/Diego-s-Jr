@@ -49,7 +49,8 @@ Enquanto coleta essas memórias, uma sombra a persegue pelos cômodos — uma ma
 - [Divisão de Tarefas](#-divisão-de-tarefas)
 - [Cronograma](#-cronograma)
 - [Referências e Inspirações](#-referências-e-inspirações)
-
+- [Kanbam e indicadores](_#-Kanban-e-indicadores)
+- [Métricas de validação](#-Metricas-de-validaçao)
 ---
 
 ## 🕯️ História Detalhada
@@ -284,5 +285,12 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 | Lead Time médio | 5,2 dias |
 
 | Cycle Time médio | 3,4 dias |
+
+## Metricas de validaçao
+- **  Formuylario:** [ https://docs.google.com/forms/d/e/1FAIpQLSc2rx4NmC-VJyu3bjFEimku545Zvks5ccH1jGs1xIrx_KxeXA/viewform?usp=dialog ]
+- ** Total de respostas :** 
+- ** Taxa de interesse :** % disseram que usariam
+- ** NPS Médio :** 
+- ** Principais feedbacks :**
 
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
