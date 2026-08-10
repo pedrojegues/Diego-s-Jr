@@ -49,8 +49,6 @@ Enquanto coleta essas memórias, uma sombra a persegue pelos cômodos — uma ma
 - [Divisão de Tarefas](#-divisão-de-tarefas)
 - [Cronograma](#-cronograma)
 - [Referências e Inspirações](#-referências-e-inspirações)
-- [Kanban e indicadores](#-Kanban-e-indicadores)
-- [Métricas de validação](#-Metricas-de-validação)
 ---
 
 ## 🕯️ História Detalhada
