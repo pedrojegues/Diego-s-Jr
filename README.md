@@ -288,9 +288,11 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 
 ## Metricas de validaçao
 - **  Formuylario:** [ https://docs.google.com/forms/d/e/1FAIpQLSc2rx4NmC-VJyu3bjFEimku545Zvks5ccH1jGs1xIrx_KxeXA/viewform?usp=dialog ]
-- ** Total de respostas :** 
-- ** Taxa de interesse :** % disseram que usariam
-- ** NPS Médio :** 
-- ** Principais feedbacks :**
+- ** Total de respostas : 6 
+- ** Taxa de interesse : 100% disseram que usariam
+- ** NPS Médio : 9,5
+- ** Principais feedbacks : 
+- Adicionaria mais história, mais itens, cartas, deixaria o game design melhor, colocaria mais tutoriais pro jogador saber o que precisa ser feito, adicionaria algo que desse vontade de jogar
+- As IAs, tem muitos bugs, porta não abre depois de fechada, ursinho não aparece quando deve, a sombra fica te encarando e não some
 
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
