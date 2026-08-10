@@ -295,4 +295,16 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 - Adicionaria mais história, mais itens, cartas, deixaria o game design melhor, colocaria mais tutoriais pro jogador saber o que precisa ser feito, adicionaria algo que desse vontade de jogar
 - As IAs, tem muitos bugs, porta não abre depois de fechada, ursinho não aparece quando deve, a sombra fica te encarando e não some
 
+## Roteiro do pitch
+### Contexto
+" Somos alunos do curso de Desenvolvimento de Sistemas e percebemos que neste cenário somos Laura, uma mulher que acorda perdida uma casa que parece familiar como se tivesse passado sua infância ali"
+### Conflito
+" O principal problema que queremos resolver ou tentar ajudar a lidar com isso é a ansiedade e depressão de pessoas que se encontram na situação da protagonista, tendo uma experiência onde ele descobre a história junto da protagonista e lida com suas emoções"
+### Solução
+" Para isso , criamos o jogo Lost Memories, que funciona da seguinte forma: uma mulher que descobre ao decorrer do jogo que teve muitos problemas com sua família, a enfermidade de seu pai e sua relação conturbada com sua mãe. E com isso lida de diferentes formas, tendo um final bom para esta situação"
+### Prova
+" Testamos com 6 jogadores e obtivemos uma média de nota de 9,5 e uma taxa de interesse de 100% entre os jogadores "
+### Chamada para a ação 
+Queremos que os jogadores sintam a história e entendam como Laura lidou com a situação
+
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
