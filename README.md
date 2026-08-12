@@ -306,9 +306,10 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 Queremos que os jogadores sintam a história e entendam como Laura lidou com a situação
 
 ## Screenshots da aplicação
-![ Tela inicial ]( img/tela1.jpeg )
 * Tela inicial do MVP *
+![ Tela inicial ]( img/tela1.jpeg )
 
+* Tela de confirmaçãodo pedido *
 ![ Confirmação1 ]( img/sala.jpeg )
 
 ![ Confirmação2 ]( img/sala2.jpeg )
@@ -318,6 +319,5 @@ Queremos que os jogadores sintam a história e entendam como Laura lidou com a s
 https://github.com/user-attachments/assets/333666da-f511-48ba-9b61-aa1af3ba92c4
 
 
-* Tela de c o n f i r m a o do pedido *
 
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
