@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3a34474e-9cdb-4f76-9716-b2b1221354e5
+
 # 🎮 Lost Memories — *Memórias Perdidas*
 
 > **Game Design Document (GDD) — Versão 1.0 — 2026**
@@ -310,6 +314,10 @@ Queremos que os jogadores sintam a história e entendam como Laura lidou com a s
 * Tela inicial do MVP *
 
 ![ C o n f i r m a o ]( img/Gameplay.mp4 )
+
+https://github.com/user-attachments/assets/333666da-f511-48ba-9b61-aa1af3ba92c4
+
+
 * Tela de c o n f i r m a o do pedido *
 
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
