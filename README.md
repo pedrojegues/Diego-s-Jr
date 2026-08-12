@@ -309,7 +309,11 @@ Queremos que os jogadores sintam a história e entendam como Laura lidou com a s
 ![ Tela inicial ]( img/tela1.jpeg )
 * Tela inicial do MVP *
 
-![ C o n f i r m a o ](  )
+![ Confirmação1 ]( img/sala.jpeg )
+
+![ Confirmação2 ]( img/sala2.jpeg )
+
+![ Confirmação3 ]( img/pato.jpeg )
 
 https://github.com/user-attachments/assets/333666da-f511-48ba-9b61-aa1af3ba92c4
 
