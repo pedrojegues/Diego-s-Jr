@@ -307,9 +307,11 @@ Queremos que os jogadores sintam a história e entendam como Laura lidou com a s
 
 ## Screenshots da aplicação
 * Tela inicial do MVP *
+
 ![ Tela inicial ]( img/tela1.jpeg )
 
 * Tela de confirmaçãodo pedido *
+
 ![ Confirmação1 ]( img/sala.jpeg )
 
 ![ Confirmação2 ]( img/sala2.jpeg )
