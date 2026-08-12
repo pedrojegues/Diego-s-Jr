@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/3a34474e-9cdb-4f76-9716-b2b1221354e5
-
 # 🎮 Lost Memories — *Memórias Perdidas*
 
 > **Game Design Document (GDD) — Versão 1.0 — 2026**
@@ -310,10 +306,10 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 Queremos que os jogadores sintam a história e entendam como Laura lidou com a situação
 
 ## Screenshots da aplicação
-![ Tela inicial ]( img/tela1.png )
+![ Tela inicial ]( img/tela1.jpeg )
 * Tela inicial do MVP *
 
-![ C o n f i r m a o ]( img/Gameplay.mp4 )
+![ C o n f i r m a o ](  )
 
 https://github.com/user-attachments/assets/333666da-f511-48ba-9b61-aa1af3ba92c4
 
