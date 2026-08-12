@@ -272,7 +272,7 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 ---
 
 ## Kanban e indicadores
-![ Print do Trello ]( kanban.png )
+![ Print do Trello ]( img/kanban.png )
 
 | Indicador | Valor |
 
@@ -309,7 +309,7 @@ Queremos que os jogadores sintam a história e entendam como Laura lidou com a s
 ![ Tela inicial ]( img/tela1.png )
 * Tela inicial do MVP *
 
-![ C o n f i r m a o ]( img/tela2.png )
+![ C o n f i r m a o ]( img/Gameplay.mp4 )
 * Tela de c o n f i r m a o do pedido *
 
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
