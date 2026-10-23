@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Meu primeiro React</title>
+  <style>
+    .destaque(
+      background{ color:#00000;
+    )
+  </style>
+</head>
+<body>
+  <script type="text/babel"
+    const projeto = "Limbo of Memories">
+    
+function Cabecalho() {
+return (
+<header>
+<h1>Sistema da Squad</h1>
+  <h1>Limbo of Memories</h1>
+<p>Projeto integrador do 3o trimestre</p>
+</header>
+);
+}
+function Cartao(class="destaque") {
+return (
+<div>
+<h3>Título do item</h3>
+<p>Descrição curta do item.</p>
+</div>
+);
+}
+function App() {
+return (
+<div>
+<Cabecalho / >
+<Cartao />
+<Cartao />
+<Cartao />
+</div>
+);
+}
+  function Lista() {
+const tarefas = [
+{ id: 1, texto: "Estudar React" },
+{ id: 2, texto: "Levar o cachorro" }
+];
+    function Perfil() {
+const nome = "Ana";
+const turma = "2C";
+return (
+<div>
+<h2>{nome}</h2>
+<p>Turma {turma}, {2026 - 2009} anos</p>
+<p>{nome.toUpperCase()}</p>
+</div>
+<ul>
+{tarefas.map((t))}
+</ul>
+);
+}
+      </script>
+</body>
+   
